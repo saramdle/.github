@@ -7,6 +7,7 @@
 
 <div align="center"> <strong>혼자</strong> 개발하기 외로운 사람 </div>
 <div align="center"> <strong>소속감</strong>을 느끼고 싶은 사람 </div>
-<div align="center"> 친해진 사람과 <strong>같이</strong> 스터디/프로젝트를 하고 싶은 사람 </div>
 <div align="center"> 개발 이야기를 하면서 <strong>견문</strong>을 넓히고 싶은 사람 </div>
+<div align="center"> <strong>코딩테스트/면접</strong> 같이 준비할 동료가 필요한 사람 </div>
+<div align="center"> 친해진 사람과 같이 <strong>스터디/프로젝트</strong>를 하고 싶은 사람 </div>
 
