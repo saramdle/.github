@@ -1,12 +1,13 @@
-# saramdle
+# <div align="center"> saramdle </div>
 
-'개발자가 모여서 세상을 바꾼다'
+## <div align="center"> 개요 </div>
 
-# communication
+<div align="center"> "익숙해지고 편안해진 분위기 속에서 같은 목표를 가지고 있는 사람들과 프로젝트 또는 스터디를 진행할 수 있는 선순환적인 프로세스 계획"</div>
 
-'우선 친해지자..'
+## <div align="center"> 대상 </div>
 
-# project & study
-
-'그리고 같이 살아 남아야지..'
+<div align="center"> 혼자 개발하기 외로운 사람 </div>
+<div align="center"> 소속감을 느끼고 싶은 사람 </div>
+<div align="center"> 친해진 사람과 같이 스터디/프로젝트를 하고 싶은 사람 </div>
+<div align="center"> 개발 이야기를 하면서 견문을 넓히고 싶은 사람 </div>
 
