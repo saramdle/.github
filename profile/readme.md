@@ -5,6 +5,3 @@
 
 # <div align="center"><a href="mailto:dlwodud821@gmail.com?Subject=[사람들]%20" target="_top">✉️</a></div>
 
-# <div align="center">61명</div>
-
-
