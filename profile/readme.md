@@ -5,3 +5,4 @@
 
 # <div align="center"><a href="mailto:dlwodud821@gmail.com?Subject=[사람들]%20" target="_top">✉️</a></div>
 
+# <div align="center"> <img width="354" alt="Shot" src="https://user-images.githubusercontent.com/102597172/222061159-fd73ac3c-32cf-4c09-840c-eeb7e3ad7646.png"> </div>
